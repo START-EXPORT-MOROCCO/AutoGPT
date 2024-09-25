@@ -23,4 +23,5 @@ if __name__ == "__main__":
     password_length = (
         int(sys.argv[sys.argv.index("--length") + 1]) if "--length" in sys.argv else 8
     )
-    print(generate_password(password_length))
+    password = generate_password(password_length)
+    print("Password has been generated successfully.")

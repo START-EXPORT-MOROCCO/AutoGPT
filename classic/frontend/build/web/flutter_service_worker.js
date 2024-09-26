@@ -38,8 +38,8 @@ const RESOURCES = {"assets/AssetManifest.json": "1b1e4a4276722b65eb1ef765e299184
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
-"index.html": "fff57a66100e189a2945f4108ea7a297",
-"/": "fff57a66100e189a2945f4108ea7a297",
+"index.html": "783c6b87c8029c7a2047c2cf9cdab1b4",
+"/": "783c6b87c8029c7a2047c2cf9cdab1b4",
 "version.json": "46a52461e018faa623d9196334aa3f50",
 "manifest.json": "0fa552613b8ec0fda5cda565914e3b16"};
 // The application shell files that are downloaded before a service worker can
